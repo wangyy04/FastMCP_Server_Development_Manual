@@ -4,7 +4,8 @@
 
 目前的MCP服务器开发手册是基于FastMCP v2.14.5编写的。FastMCP的Github仓库为https://github.com/PrefectHQ/fastmcp。
 
-本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual/tree/main。
+本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual。
+
 本仓库在Github上有镜像仓库，链接为https://github.com/wangyy04/FastMCP_Server_Development_Manual。
 
 ## MCP_Redis_Demo目录
