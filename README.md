@@ -2,6 +2,8 @@
 
 本仓库为使用FastMCP开发MCP服务器的开发手册的电子资源，包括各版本开发手册的pdf文件与word原始文件、样例FastMCP项目、配置环境的安装包等。
 
+本仓库采用CC BY-SA 4.0开源协议 ![Image text](https://algorithm-template-1328964093.cos.ap-nanjing.myqcloud.com/CC_BY-SA_icon.svg)
+
 目前的MCP服务器开发手册是基于FastMCP v2.14.5编写的。FastMCP的Github仓库为https://github.com/PrefectHQ/fastmcp
 
 本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual
