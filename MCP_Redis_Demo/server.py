@@ -158,7 +158,7 @@ async def redis_scan(ctx: Context,
     cursor, keys = await db.scan(cursor=0, match=f"{usr_id}*", count=100)
     formatted_result.extend(keys)
     while cursor!=0:
-        cursor, keys = await db.scan(cursor=0, match=f"{usr_id}*", count=100)
+        cursor, keys = await db.scan(cursor=cursor, match=f"{usr_id}*", count=100)
         formatted_result.extend(keys)
     result = [s.removeprefix(f"{usr_id}:") for s in formatted_result]
     # result = await db.keys(f"{usr_id}*")
