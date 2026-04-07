@@ -34,7 +34,7 @@ mcp = FastMCP("MCP_Redis_Demo", lifespan=mcp_lifespan, exclude_tags={'debug'})
 key_dir = Path("./authentication/access_control_list/private_key").resolve()
 mcp.add_middleware(ACLMiddleware(directory=key_dir, method="query"))
 
-# 添加健康检查自定义路由（端点为/heath）
+# 添加健康检查自定义路由（端点为/health）
 @mcp.custom_route("/health", methods=["GET"])
 async def health_check(request: Request) -> JSONResponse:
     try:
