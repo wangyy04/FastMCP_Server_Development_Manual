@@ -4,13 +4,11 @@
 
 本仓库采用CC BY-SA 4.0开源协议 ![Image text](https://algorithm-template-1328964093.cos.ap-nanjing.myqcloud.com/CC_BY-SA_icon.svg)
 
-目前的MCP服务器开发手册是基于FastMCP v2.14.5编写的。FastMCP的Github仓库为https://github.com/PrefectHQ/fastmcp  
+目前的MCP服务器开发手册是基于FastMCP v2.14.5编写的。FastMCP的Github仓库为https://github.com/PrefectHQ/fastmcp
 
-**当前最新版本为`MCP服务器开发手册(FastMCP v2)[第四版]`**
+本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual
 
-本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual  
-
-本仓库在Github上有镜像仓库，链接为https://github.com/wangyy04/FastMCP_Server_Development_Manual  
+本仓库在Github上有镜像仓库，链接为https://github.com/wangyy04/FastMCP_Server_Development_Manual
 
 ## MCP_Redis_Demo目录
 
