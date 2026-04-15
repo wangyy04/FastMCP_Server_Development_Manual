@@ -8,9 +8,9 @@
 
 **当前最新版本为`MCP服务器开发手册(FastMCP v2)[第四版]`**
 
-本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual  
+本仓库在Gitcode上的链接为https://gitcode.com/weixin_47502832/FastMCP_Server_Development_Manual
 
-本仓库在Github上有镜像仓库，链接为https://github.com/wangyy04/FastMCP_Server_Development_Manual  
+本仓库在Github上有镜像仓库，链接为https://github.com/wangyy04/FastMCP_Server_Development_Manual
 
 ## MCP_Redis_Demo目录
 
